@@ -19,17 +19,17 @@ Clone repository ini ke mesin lokal Anda:
 ```bash
 git clone https://github.com/username/repository.git
 
-### 2. Buka di Android Studio
+#### 2. Buka di Android Studio
 
 Buka Android Studio dan pilih "Open an existing Android Studio project".
 Arahkan ke folder tempat Anda meng-clone repository ini.
 
-### 3. Sync Gradle
+##### 3. Sync Gradle
 
 Android Studio biasanya akan secara otomatis memulai sinkronisasi Gradle.
 Jika tidak, pilih File -> Sync Project with Gradle Files.
 
-### 4. Run Aplikasi
+###### 4. Run Aplikasi
 
 Hubungkan perangkat Android Anda atau gunakan emulator.
 Klik tombol "Run" (ikon hijau play) di toolbar Android Studio.
